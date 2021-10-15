@@ -1,0 +1,136 @@
+"Crie uma aplicação que contenha duas variáveis: seu nome e sua idade.
+Imprima no seguinte formato:
+
+Nome: <seu nome aqui>
+Idade: <sua idade aqui>
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 1 - <Seu Nome>"
+
+============
+
+"Crie uma aplicação que tenha uma função que multiplique dois números e retorne o resultado.
+Imprima no seguinte formato:
+
+Número 1: <primeiro numero>
+Número 2: <segundo numero>
+Resultado: <resultado>
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 2 - <Seu Nome>"
+
+============
+
+"Crie uma aplicação que contenha um objeto.
+Popule este objeto com as seguintes informações: Nome, Idade e Hobbies.
+A propriedade de Hobbies deve ser uma lista.
+Imprima no seguinte formato:
+
+Nome: <nome>
+Idade: <idade>
+Hobbie 1: <hobby 1>
+Hobbie 2: <hobby 2>
+...
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 3 - <Seu Nome>"
+
+============
+
+"Reconstrua sua aplicação 3, com as seguintes condições:
+
+O objeto deverá ser construído por uma função que recebe como parâmetro Nome, Idade, e Hobbies.
+
+O resultado final deverá ser o mesmo.
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 4 - <Seu Nome>"
+
+============
+
+"Crie uma aplicação que leia o JSON abaixo, e imprima cada um de seus campos:
+
+{""empresa"":""GFT"",""projeto"":""Treinamento"",""tecnologias"":[{""id"":1,""nome"":""NodeJS""},{""id"":2,""nome"":""ReactJS""}]}
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 5 - <Seu Nome>"
+
+
+============
+
+"Crie uma aplicação com uma lista de 20 itens, e itere sobre essa mesma lista utilizando forEach, for-in, for-of e map.
+
+Imprima cada loop de cada item, identificando qual o tipo de iterador que está sendo utilizado.
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 6 - <Seu Nome>"
+
+============
+
+"Desafios adicionais:
+
+- Crie uma função que recebe uma outra função como parâmetro.
+
+- Crie uma função que receba dois parâmetros, onde o segundo parâmetro é opcional.
+
+- Crie um objeto com outro objeto dentro.
+
+- Crie um objeto com uma lista dentro.
+
+- Imprima o seguinte texto, na seguinte ordem:
+*
+**
+***
+****
+
+- Itere uma lista com forEach, alterando cada item no loop, e compare o antes e depois
+
+- Faça a mesma coisa utilizando map, e compare o antes e depois
+
+- Crie um objeto que contenha uma lista de objetos"
+
+============
+
+"Crie uma aplicação que execute uma Promise, e imprima os seguintes logs:
+
+Antes da Promise
+Início da Promise
+Dentro da Promise
+Conclusão da Promise
+Depois da Promise
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 7 - <Seu Nome>"
+
+============
+
+"Converta a aplicação acima para o formato Async/Await.
+
+Crie um arquivo .ZIP do(s) arquivo(s) do projeto e envie para:
+mauricio.francisco@gft.com
+
+Com o título:
+[TREINAMENTO] App 8 - <Seu Nome>"
+
+============

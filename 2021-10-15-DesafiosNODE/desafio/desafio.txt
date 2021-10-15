@@ -1,0 +1,6 @@
+Continue a API anterior, e adicione a funcionalidade de log de todas as requests e responses.
+Não é permitido utilizar console.log() diretamente.
+
+
+
+Continue a API anterior, e adicione a funcionalidade de conexão com banco de dados MySQL.

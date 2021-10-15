@@ -1,0 +1,4 @@
+Crie uma aplicação Web que tenha uma página inicial com header, conteúdo e footer.
+O header e o footer devem ter a mesma altura (64px), e ocupar toda a largura da tela.
+O conteúdo deve ficar entre os dois e ocupar todo o espaço que sobrar entre eles (dica: use Flexbox).
+Dentro do conteúdo, exiba uma variável de contagem, e abaixo dela um botão para incrementar essa contagem.

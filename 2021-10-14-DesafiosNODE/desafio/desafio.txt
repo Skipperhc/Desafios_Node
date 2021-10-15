@@ -1,0 +1,19 @@
+Crie uma API Node que tenha os seguintes endpoints:
+
+GET  /
+GET  /pokemon
+GET  /pokemon/{id}
+POST /pokemon
+PUT  /pokemon
+GET  /town
+GET  /town/{id}
+POST /town/{id}
+PUT  /town/{id}
+GET  /battle
+GET  /battle/{id}
+POST /battle/start
+POST /battle/attack
+POST /battle/finish
+
+Divida eles em arquivos de rotas separados, utilizando a arquitetura de Middleware do Express.
+O retorno pode ser um valor padrão, por enquanto.
